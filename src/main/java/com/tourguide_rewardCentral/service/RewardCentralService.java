@@ -1,4 +1,4 @@
-package com.tourguide.service;
+package com.tourguide_rewardCentral.service;
 
 import java.util.UUID;
 

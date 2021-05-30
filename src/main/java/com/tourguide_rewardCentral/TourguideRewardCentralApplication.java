@@ -1,4 +1,4 @@
-package com.tourguide;
+package com.tourguide_rewardCentral;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

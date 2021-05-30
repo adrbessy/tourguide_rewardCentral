@@ -1,4 +1,4 @@
-package com.tourguide.model;
+package com.tourguide_rewardCentral.model;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

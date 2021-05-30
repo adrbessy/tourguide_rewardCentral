@@ -1,6 +1,6 @@
-package com.tourguide.controller;
+package com.tourguide_rewardCentral.controller;
 
-import com.tourguide.service.RewardCentralService;
+import com.tourguide_rewardCentral.service.RewardCentralService;
 import java.util.UUID;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
